@@ -1,0 +1,13 @@
+body {
+    flex-wrap: wrap;
+    
+}
+
+div {
+    width: 800px;
+}
+
+img {
+    width: 100%;
+}
+
